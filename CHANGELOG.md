@@ -9,7 +9,7 @@ The version headers in this history reflect the versions of Apollo Server itself
 
 > The changes noted within this `vNEXT` section have not been released yet.  New PRs and commits which introduce changes should include an entry in this `vNEXT` section as part of their development.  When a release is being prepared, a new header will be (manually) created below and the appropriate changes within that release will be moved into the new section.
 
-- _Nothing yet! Stay tuned!_
+- `apollo-gateway`: Use a content delivery network for managed configuration. Split storage secrets from composition configuration. [PR #4080](https://github.com/apollographql/apollo-server/pull/4080)
 
 ### v2.13.0
 
